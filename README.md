@@ -1,4 +1,4 @@
-# BBI_Landing_Page
+# best-tech-web
 
 Bamboo BI Lannding page using nextjs and tailwindcss
 
